@@ -1,0 +1,12 @@
+{
+  "name": "toeic12ngay-clone",
+  "version": "1.0.0",
+  "description": "Website Toeic 12 Ngay Chinh Phuc Moi Muc Tieu Diem So",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["toeic", "landing-page"],
+  "author": "",
+  "license": "ISC"
+}
